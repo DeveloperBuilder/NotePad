@@ -25,6 +25,7 @@ namespace NotePad
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenFileDialog op = new OpenFileDialog();
+            op.Filter = "Text File | *.txt";
             if (op.ShowDialog() == DialogResult.OK)
                 richTextBox1.LoadFile(op.FileName,RichTextBoxStreamType.PlainText);
             this.Text = op.FileName;

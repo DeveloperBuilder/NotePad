@@ -7,3 +7,4 @@ C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateRes
 C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
 C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.exe
 C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
