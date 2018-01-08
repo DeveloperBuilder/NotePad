@@ -25,7 +25,7 @@ namespace NotePad
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenFileDialog op = new OpenFileDialog();
-            op.Filter = "Text File | *.txt";
+            op.Filter = "Text Documents | *.txt";
             if (op.ShowDialog() == DialogResult.OK)
                 richTextBox1.LoadFile(op.FileName,RichTextBoxStreamType.PlainText);
             this.Text = op.FileName;
@@ -34,7 +34,7 @@ namespace NotePad
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog sv = new SaveFileDialog();
-            sv.Filter= "Text Document(*.txt)|*.txt|All Files(*.*)|*.*";
+            sv.Filter= "Text Documents (*.txt)|*.txt|All Files(*.*)|*.*";
                 if (sv.ShowDialog() == DialogResult.OK)
                 richTextBox1.SaveFile(sv.FileName, RichTextBoxStreamType.PlainText);
             this.Text = sv.FileName;
