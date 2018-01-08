@@ -1,0 +1,9 @@
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\LSLIM\Source\Repos\NotePad\NotePad\obj\Debug\NotePad.pdb
